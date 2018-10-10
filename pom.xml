@@ -22,5 +22,23 @@
       <version>4.12</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+        <artifactId>net.jcip</artifactId>
+        <groupId>jcip-annotations</groupId>
+        <scope>system</scope>
+        <systemPath>${basedir}/lib/jcip-annotations.jar</systemPath>
+    </dependency>
+    <dependency>
+      <artifactId>net.jcip</artifactId>
+      <groupId>jcip-annotations-src</groupId>
+      <scope>system</scope>
+      <systemPath>${basedir}/lib/jcip-annotations-src.jar</systemPath>
+    </dependency>
+    <dependency>
+      <artifactId>net.jcip</artifactId>
+      <groupId>jcip-examples-src</groupId>
+      <scope>system</scope>
+      <systemPath>${basedir}/lib/jcip-examples-src.jar</systemPath>
+    </dependency>
   </dependencies>
 </project>
