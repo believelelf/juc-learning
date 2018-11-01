@@ -40,5 +40,12 @@
       <scope>system</scope>
       <systemPath>${basedir}/lib/jcip-examples-src.jar</systemPath>
     </dependency>
+
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>servlet-api</artifactId>
+      <version>3.0-alpha-1</version>
+      <scope>provided</scope>
+    </dependency>
   </dependencies>
 </project>
