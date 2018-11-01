@@ -1,4 +1,4 @@
-package com.weiquding.jcp.examples;
+package com.weiquding.jcip.examples;
 
 /**
  * 使用工厂方法来防止this引用在构造过程中逸出。

@@ -1,4 +1,4 @@
-package com.weiquding.jcp.examples;
+package com.weiquding.jcip.examples;
 
 /**
  * 隐式地使this引用逸出

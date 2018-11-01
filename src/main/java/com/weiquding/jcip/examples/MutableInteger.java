@@ -1,4 +1,4 @@
-package com.weiquding.jcp.examples;
+package com.weiquding.jcip.examples;
 
 import net.jcip.annotations.NotThreadSafe;
 

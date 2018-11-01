@@ -1,4 +1,4 @@
-package com.weiquding.jcp.examples;
+package com.weiquding.jcip.examples;
 
 /**
  * Volatile可变量：保证可见性
